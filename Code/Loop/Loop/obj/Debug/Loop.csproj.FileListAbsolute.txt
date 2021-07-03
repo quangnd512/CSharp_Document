@@ -1,0 +1,7 @@
+D:\Desktop\Desktop\github\C#_Document\Code\Loop\Loop\bin\Debug\Loop.exe.config
+D:\Desktop\Desktop\github\C#_Document\Code\Loop\Loop\bin\Debug\Loop.exe
+D:\Desktop\Desktop\github\C#_Document\Code\Loop\Loop\bin\Debug\Loop.pdb
+D:\Desktop\Desktop\github\C#_Document\Code\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+D:\Desktop\Desktop\github\C#_Document\Code\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+D:\Desktop\Desktop\github\C#_Document\Code\Loop\Loop\obj\Debug\Loop.exe
+D:\Desktop\Desktop\github\C#_Document\Code\Loop\Loop\obj\Debug\Loop.pdb

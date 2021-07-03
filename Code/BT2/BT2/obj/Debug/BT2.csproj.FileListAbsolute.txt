@@ -1,0 +1,7 @@
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT2\BT2\bin\Debug\BT2.exe.config
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT2\BT2\bin\Debug\BT2.exe
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT2\BT2\bin\Debug\BT2.pdb
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT2\BT2\obj\Debug\BT2.csprojAssemblyReference.cache
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT2\BT2\obj\Debug\BT2.exe
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT2\BT2\obj\Debug\BT2.pdb

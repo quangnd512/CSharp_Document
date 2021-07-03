@@ -1,0 +1,7 @@
+D:\Desktop\Desktop\github\C#_Document\Code\HelloCsharp\HelloCsharp\bin\Debug\HelloCsharp.exe.config
+D:\Desktop\Desktop\github\C#_Document\Code\HelloCsharp\HelloCsharp\bin\Debug\HelloCsharp.exe
+D:\Desktop\Desktop\github\C#_Document\Code\HelloCsharp\HelloCsharp\bin\Debug\HelloCsharp.pdb
+D:\Desktop\Desktop\github\C#_Document\Code\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.csprojAssemblyReference.cache
+D:\Desktop\Desktop\github\C#_Document\Code\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.csproj.CoreCompileInputs.cache
+D:\Desktop\Desktop\github\C#_Document\Code\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.exe
+D:\Desktop\Desktop\github\C#_Document\Code\HelloCsharp\HelloCsharp\obj\Debug\HelloCsharp.pdb

@@ -1,0 +1,7 @@
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT1\BT1\bin\Debug\BT1.exe.config
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT1\BT1\bin\Debug\BT1.exe
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT1\BT1\bin\Debug\BT1.pdb
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT1\BT1\obj\Debug\BT1.csprojAssemblyReference.cache
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT1\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT1\BT1\obj\Debug\BT1.exe
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BT1\BT1\obj\Debug\BT1.pdb

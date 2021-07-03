@@ -1,0 +1,7 @@
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BTTH2\BTTH2\bin\Debug\BTTH2.exe.config
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BTTH2\BTTH2\bin\Debug\BTTH2.exe
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BTTH2\BTTH2\bin\Debug\BTTH2.pdb
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BTTH2\BTTH2\obj\Debug\BTTH2.csprojAssemblyReference.cache
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BTTH2\BTTH2\obj\Debug\BTTH2.csproj.CoreCompileInputs.cache
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BTTH2\BTTH2\obj\Debug\BTTH2.exe
+E:\Desktop\Desktop\Desktop\github\C#_Document\Code\BTTH2\BTTH2\obj\Debug\BTTH2.pdb
