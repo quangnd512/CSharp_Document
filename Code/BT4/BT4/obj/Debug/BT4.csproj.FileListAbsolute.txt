@@ -1,0 +1,7 @@
+C:\Users\QND512\source\repos\BT4\BT4\bin\Debug\BT4.exe.config
+C:\Users\QND512\source\repos\BT4\BT4\bin\Debug\BT4.exe
+C:\Users\QND512\source\repos\BT4\BT4\bin\Debug\BT4.pdb
+C:\Users\QND512\source\repos\BT4\BT4\obj\Debug\BT4.csprojAssemblyReference.cache
+C:\Users\QND512\source\repos\BT4\BT4\obj\Debug\BT4.csproj.CoreCompileInputs.cache
+C:\Users\QND512\source\repos\BT4\BT4\obj\Debug\BT4.exe
+C:\Users\QND512\source\repos\BT4\BT4\obj\Debug\BT4.pdb

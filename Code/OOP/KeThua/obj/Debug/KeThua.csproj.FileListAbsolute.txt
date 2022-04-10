@@ -1,0 +1,7 @@
+C:\Users\QND512\source\repos\OOP\KeThua\obj\Debug\KeThua.csprojAssemblyReference.cache
+C:\Users\QND512\source\repos\OOP\KeThua\obj\Debug\KeThua.csproj.CoreCompileInputs.cache
+C:\Users\QND512\source\repos\OOP\KeThua\bin\Debug\KeThua.exe.config
+C:\Users\QND512\source\repos\OOP\KeThua\bin\Debug\KeThua.exe
+C:\Users\QND512\source\repos\OOP\KeThua\bin\Debug\KeThua.pdb
+C:\Users\QND512\source\repos\OOP\KeThua\obj\Debug\KeThua.exe
+C:\Users\QND512\source\repos\OOP\KeThua\obj\Debug\KeThua.pdb

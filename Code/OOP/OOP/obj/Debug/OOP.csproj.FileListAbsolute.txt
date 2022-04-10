@@ -1,0 +1,7 @@
+C:\Users\QND512\source\repos\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\QND512\source\repos\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\QND512\source\repos\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\QND512\source\repos\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\QND512\source\repos\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\QND512\source\repos\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\QND512\source\repos\OOP\OOP\obj\Debug\OOP.pdb

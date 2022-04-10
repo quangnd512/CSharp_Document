@@ -1,0 +1,7 @@
+C:\Users\QND512\source\repos\BTTH3\BTTH3\bin\Debug\BTTH3.exe.config
+C:\Users\QND512\source\repos\BTTH3\BTTH3\bin\Debug\BTTH3.exe
+C:\Users\QND512\source\repos\BTTH3\BTTH3\bin\Debug\BTTH3.pdb
+C:\Users\QND512\source\repos\BTTH3\BTTH3\obj\Debug\BTTH3.csprojAssemblyReference.cache
+C:\Users\QND512\source\repos\BTTH3\BTTH3\obj\Debug\BTTH3.csproj.CoreCompileInputs.cache
+C:\Users\QND512\source\repos\BTTH3\BTTH3\obj\Debug\BTTH3.exe
+C:\Users\QND512\source\repos\BTTH3\BTTH3\obj\Debug\BTTH3.pdb

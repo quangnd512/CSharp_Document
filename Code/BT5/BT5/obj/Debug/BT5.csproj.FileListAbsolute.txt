@@ -1,0 +1,7 @@
+C:\Users\QND512\source\repos\BT5\BT5\bin\Debug\BT5.exe.config
+C:\Users\QND512\source\repos\BT5\BT5\bin\Debug\BT5.exe
+C:\Users\QND512\source\repos\BT5\BT5\bin\Debug\BT5.pdb
+C:\Users\QND512\source\repos\BT5\BT5\obj\Debug\BT5.csprojAssemblyReference.cache
+C:\Users\QND512\source\repos\BT5\BT5\obj\Debug\BT5.csproj.CoreCompileInputs.cache
+C:\Users\QND512\source\repos\BT5\BT5\obj\Debug\BT5.exe
+C:\Users\QND512\source\repos\BT5\BT5\obj\Debug\BT5.pdb

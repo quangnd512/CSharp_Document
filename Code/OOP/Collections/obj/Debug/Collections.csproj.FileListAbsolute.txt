@@ -1,0 +1,7 @@
+C:\Users\QND512\source\repos\OOP\Collections\bin\Debug\Collections.exe.config
+C:\Users\QND512\source\repos\OOP\Collections\bin\Debug\Collections.exe
+C:\Users\QND512\source\repos\OOP\Collections\bin\Debug\Collections.pdb
+C:\Users\QND512\source\repos\OOP\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\QND512\source\repos\OOP\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\QND512\source\repos\OOP\Collections\obj\Debug\Collections.exe
+C:\Users\QND512\source\repos\OOP\Collections\obj\Debug\Collections.pdb
